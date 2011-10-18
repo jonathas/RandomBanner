@@ -1,0 +1,7 @@
+
+This class can be used to show random image or Flash banners from a list.
+
+It can add to a list one or more image or Flash banners given the banner Flash or image URL, and the click destination URL in case of the image banner.
+
+The class picks one of the banners randomly and generates the necessary HTML to display the banner in a Web page.
+
